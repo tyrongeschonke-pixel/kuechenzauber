@@ -1,0 +1,1 @@
+{"name":"kuechenzauber","version":"1.1.0","private":true,"type":"module","description":"Kostenlose statische Rezept-PWA mit Einkaufsliste und lokal gespeicherter Kochhistorie.","scripts":{"test":"node --test tests/*.test.mjs"}}

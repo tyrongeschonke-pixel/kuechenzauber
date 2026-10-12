@@ -1,0 +1,27 @@
+{
+  "recipeCount": 106,
+  "ingredientCount": 899,
+  "ingredientNoteCount": 6,
+  "preparationBlockCount": 603,
+  "datasetSha256": "33ed4d8e1d13fa3b3c68bc03b430ed922b6e44e99a74b691f46a392315dcd0c8",
+  "cachedSourcePageCount": 150,
+  "checks": {
+    "allRecordsEqualExactSourceRevisionReextraction": true,
+    "uniqueSourceIds": true,
+    "completeIngredientsAndPreparation": true,
+    "adviceNotCountedAsIngredients": true,
+    "EierpunschExactlyOneEggRequirement": true,
+    "KichererbsensalatBareIngredientsPreserved": true,
+    "RueblitorteAllListedQuantitiesPreserved": true,
+    "groupLabelsPreserved": true,
+    "noHtmlOrNavigationArtifacts": true
+  },
+  "correction": {
+    "previousIngredientCount": 903,
+    "removedProseParagraphCount": 5,
+    "removedPlaceholderCount": 1,
+    "extraRowsFromOriginalIngredientLineBreaks": 2,
+    "correctedIngredientCount": 899
+  },
+  "scope": "Source extraction and structural checks only; recipes were not cooked. No extra fetching during this correction."
+}
