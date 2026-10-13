@@ -2,6 +2,16 @@
 
 Eine kostenlose deutschsprachige Rezept-Web-App für den iPhone-Startbildschirm. 106 vollständige Internet-Rezepte aus Wikibooks, Zutatenabgleich, abwechslungsreiche Vorschläge, Einkaufsliste, Kochhistorie, Offline-Nutzung und Sicherungsdateien. Kein Konto für die Nutzung und keine kostenpflichtige KI oder API.
 
+## Küchenzauber jetzt öffnen
+
+**App:** [Küchenzauber öffnen](https://tyrongeschonke-pixel.github.io/kuechenzauber/)
+
+**Quellcode:** [GitHub-Projekt](https://github.com/tyrongeschonke-pixel/kuechenzauber)
+
+Veröffentlicht am 13. Oktober 2026. Im bestehenden GitHub-Projekt liegen die App-Dateien im Ordner `docs`; GitHub Pages verwendet **Deploy from a branch → main → /docs**. Änderungen dort speichern und bei Änderungen an den App-Dateien die Cache-Version in `sw.js` erhöhen. Die Anleitung weiter unten mit `/(root)` beschreibt eine alternative Einrichtung eines neuen Projekts.
+
+Auf dem iPhone den App-Link in Safari öffnen, **Teilen → Zum Home-Bildschirm** wählen und **Hinzufügen** antippen. Falls angeboten, **Als Web-App öffnen** aktivieren. Beim ersten Öffnen Internet verwenden. Ein GitHub-Account ist für die Nutzung nicht nötig.
+
 ## Ausprobieren auf diesem Mac
 
 Öffne das Terminal in diesem Ordner und starte:
